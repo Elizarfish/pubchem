@@ -1,0 +1,321 @@
+Resveratrol
+Alpha-Lipoic acid
+Astaxanthin
+Catechin
+Curcumin
+Fucoxanthin
+Spermidine
+Acacetin
+Acetic acid
+Agmatine
+Alpha-Ketoglutarate
+Baicalein
+Betaine
+Caffeic acid
+Carnosine
+Catalpol
+Chlorogenic acid
+Coenzyme Q10
+d-Glucosamine
+Dimethyl sulfide
+(-)-Epicatechin
+Epigallo-catechin gallate
+Gallic acid
+Gluconate
+Glycerol
+Icariin
+Lactate
+Nordi-hydroguaiaretic acid
+Oleanolic acid
+Polydatin
+Rosmarinic acid
+Sesamin
+Tetra-hydrocurcumin
+Urolithin A
+Vitexin
+Creatine
+Chiro-inositol
+Gluconic acid
+Glycoside acteoside
+Lutein
+S,S-Trolox-carnosine
+Theaflavins
+Beta-Guani-dinopropionic acid
+Wortmannin
+3,4-Dihydro-xybenzaldehyde
+Beta-Estradiol
+Chlorophyll
+Dipeptide Tyr-Ala
+Ferulsinaic acid
+Genistein
+Quercetin 3-O-Beta-d-glucopyranoside
+Salicylic acid
+Specioside
+Taxifolin
+Theanine
+Trolox
+Fisetin
+4-Hydroxy-E-globularinin
+Iso-xanthohumol
+Kaempferol
+Quercetin
+Quercetin-3-O-glucoside
+Naringenin
+Isorhamnetin
+Tamarixetin
+Verminoside
+Icariside II
+Trehalose
+Withanolide A
+Tyrosol
+Piceatannol
+Cysteine
+Chicoric acid
+Oxaloacetate
+Oxy-resveratrol
+Beta-Dihydro-agarofuran-type sesquiterpenes
+(R)-2-Hydro-xyglutarate
+(S)-2-Hydroxyglutarate
+10-Hydroxy-2-decenoic acid
+Ascr#2
+Ascr#3
+Dehydro-abietic acid
+Hydrogen sulfide
+Salicylamine
+Juglone
+Deutero-haemin-AlaHisThrValGluLys
+Nicotinamide adenine dinucleotide
+Malate
+Asparagine
+Diallyl trisulfide
+Plumbagin
+Tomatidine
+S-Allylcysteine
+S-Allylmercapto-cysteine
+Leucine
+Isolappaol A
+Lappaol C
+Lappaol F
+Matairesinol
+Arctigenin
+Arctiin
+Pinitol
+Alanine
+Lysine
+d-Alanine
+Glutamine
+Beta-Caryophyllene
+Tyrosine
+Beta-Alanine
+Acacetin 7-O-Alpha-l-rhamnopyranosyl
+Arsenite
+d-Beta-Hydroxybutyrate
+Histidine
+Proline
+Serine
+Tryptophan
+Bacitracin
+Fumarate
+Methionine
+N-Nitrosodimethylamine
+2,3-Dehydrosily-bin A/B
+Ellagic acid
+Glau-carubinone
+Myricetin
+Otophylloside B
+Pentagalloyl glucose
+N-Acetyl-glucosamine
+Quercetin 3-O-Beta-d-glucopyranoside
+Sorbitol
+Tannic acid
+Taurine
+Triptolide
+Vitamin D3
+Cholesterol
+Dafachronic acid
+Pregnenolone
+Royalactin
+Caffeic acid phenethyl ester
+d-Glutamate
+Galact-opyranose
+Glycine
+Homocysteine
+Isocitrate
+Isoleucine
+Ornithine
+Phosphoenol-pyruvate
+Picolinic acid
+Ribopyranose
+Succinate
+Threonine
+Valine
+Xylose
+Melatonin
+Epitalon
+Vitamin E
+Carboxyfullerene (a SOD mimetic compound)
+Royal gelly
+SkQ1
+Phenformin
+Buformin
+Metformin
+Rapamycin
+4-phenylbutyrate
+platinum nanoparticles (SOD-mimetic)
+Euk-8 
+Euk-13
+Sodium butyrate
+N-acetyl-L-cysteine
+Indolepropionamide
+Mixture of spermine, spermidine and putrescine
+Beta-guanidinopropionic acid
+Trichostatin A
+Methylcobalamin
+Cyanocobalamin
+Vitamin K2
+Magnesium citrate
+Lithium
+Glucosamine sulfate
+Methyltetrahydrofolate
+Lycopene
+Inulin
+Vitamin D
+Caffeine 
+Telmisartan
+Rosuvastatin
+Creatinine
+Liraglutide
+Selenium
+Aminoguanidine
+5-Caffeoylquinic acid
+p-coumaroylquinic acid
+Feruoylquinic acid
+Dicaffeoylquinic acid
+Arginine
+3,5-di-O-caffeoylquinic acid methyl ester
+3,5-di-O-caffeoyl-epi-quinic acid
+Ferulic acid
+Ethyl gallate
+Pentagalloyl glucose
+Protocatechuic acid
+p-coumaric acid
+7-O-galloyl-D-sedoheptulose
+Butein
+Phloridzin
+Phloretin
+Sieboldin
+Trilobatin
+Daidzein
+Glycetein
+Biochanin A
+Formononetin
+Puerarin
+Kaempferol-3-O-rutinoside
+Quercitrin
+Quercetin-3-Beta-glucopyranoside
+Hyperin
+Quercetin-3-O-Beta-D-galactopyranoside
+Quercetin 3-O-b-D-glucopyranoside
+Quercetin 3-O-b-D-glucuronopyranoside
+Rutin
+Apigenin
+Luteolin
+Apigenin-7-O- Beta -D-glucuronide methyl ester
+Hispidulin
+Vitexin
+Isovitexin
+4`-O-[Beta -D-apiosyl (1→2)] - Beta -D-glucopyranosyl] - 5-hydroxyl-7-O-sinapylflavanone
+5,7-dimethoxy-4`-O-Beta -D-glucopyranoside flavanone
+4`,5-dimethoxy-7-hydroxy flavanone
+5,7-dimethoxy-4`-hydroxy flavanone
+2,3-dioxygenated flavanone, erigeroflavanone
+Fustin
+Engeletin
+Astilbin
+Taxifolin
+(-)-catechin
+(+)-epicatechin
+(-)-epigallocatechin
+(-)-epicatechin- 3-gallate
+epicatechin procyanidin B2
+Proanthocyanidin B-4
+Ellagitannin
+2,3,5,4’-tetrahydroxystilbene 2-O-Beta-D-glucoside
+5,6-dehydrokawain
+Dihydro-5,6-dehydrokawain
+Labdadiene
+Linoleic acid
+Arachidonic acid
+Eicosapentaenoic acid
+Beta-carotene
+Astaxanthin
+Canthaxanthin
+Adonixanthin
+Astaxanthin diester
+Ursolic acid
+Arjunolic acid
+Pyridoxamine
+Citric acid
+RG7834
+SRT1720
+BCH001
+L-Carnitine
+N-Acetylcysteine
+Delphinidin
+Astragaloside IV
+Cycloastragenol
+Zeaxanthin
+RG108
+Aspirin
+Methylene blue
+dasatinib
+piperlongumine
+A-1331852
+A-1155463
+Navitoclax
+17-DMAG
+17AAG
+Geldanamycin
+Ganetespib
+Azithromycin
+Roxithromycin
+FOXO4-DRI
+BIIB021
+NYP-AUY922
+PU-H71
+Enalapril
+everolimus
+rafampicin
+simvastatin
+sulforafan
+telmisartan
+fenofibrate
+celecoxib
+cyanidin-3-O-glucoside
+losartin
+minocycline
+metoprolol
+nebivolol
+PUFAs
+pentagalloylglucose
+pentoxyfilline
+pioglitazone
+piracetam
+promethazine hydrochloride
+guanabenz acetate
+guanfacine hydrochloride
+deprenyl
+doxazosin mesylate
+doxycycline
+zoledronate
+ibuprofen
+CaEDTA
+candesartan
+lamotrigine
+acarbose
+ascorbic acide
+bezafibrate
+valsartan
+valproic acid
+vinpocetine
+hydroxytyrosol
